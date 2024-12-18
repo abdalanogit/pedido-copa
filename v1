@@ -8,7 +8,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background: linear-gradient(135deg, #0052D4, #6FB1FC);
+            background: linear-gradient(135deg, #00c6ff, #0072ff); /* Degradê atualizado */
             color: #fff;
             display: flex;
             flex-direction: column;
@@ -75,7 +75,9 @@
     </style>
 </head>
 <body>
-    <img src="logo GARG TEC_cinza_alta definição.png" alt="Logo GARG TEC" class="logo">
+    <a href="https://ibb.co/tLhVBGP">
+        <img src="https://i.ibb.co/g47ky2F/logo-GARG-TEC-cinza-alta-defini-o.png" alt="logo-GARG-TEC-cinza-alta-defini-o" class="logo" />
+    </a>
     <h1>Sistema de Pedidos</h1>
 
     <div id="sala-grid" class="grid">
